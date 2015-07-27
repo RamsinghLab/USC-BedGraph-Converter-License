@@ -11,6 +11,7 @@ REGENTS SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, TH
 
 The following software uses bedGraphToBigWig software located  http://genome.ucsc.edu/, developed by  BigWig and BigBed tools: Kent WJ, Zweig AS, Barber G, Hinrichs AS, Karolchik D. BigWig and BigBed: enabling browsing of large distributed data sets. Bioinformatics. 2010 Sep 1;26(17):2204-7.
 
+
 The following software is for academic, research, personal , or non-commercial use only.  USC BedGraph Converter is a wrapper function of bedGraphToBigWig function written by Dr. Kent et.al at UCSC hosted  http://genome.ucsc.edu/
 
 For interests in commerical use please contact kent@soe.ucsc.edu (831) 459-1401 , fax (831) 459-1809 at
@@ -24,3 +25,10 @@ Santa Cruz, CA 95064
 Illumina and its affiliates are not responsible for the content of, use of, or performance of the Application.
 
  The BaseSpace User must acknowledge and agree that Illumina and its affiliates are Third Party beneficiaries under the end user license agreement.
+ 
+ In your published work, please add the citations:
+ Please include the citation:  Kent WJ, Zweig AS, Barber G, Hinrichs AS, Karolchik D. BigWig and BigBed: enabling browsing of large distributed data sets. Bioinformatics. 2010 Sep 1;26(17):2204-7
+                               USC BedGraph Converter: Anthony Colombo, Dr. Timothy Triche Jr., Dr. Giridharan Ramsingh,  
+                                
+
+ 
