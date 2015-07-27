@@ -1,0 +1,26 @@
+This is a end user license agreement for Basespace USC Bedgraph Converter application.
+Copyright ©2015. The Regents of the University of Southern California (Regents). All Rights Reserved. Permission to use, copy, modify, and distribute this software and its documentation for educational and research not-for-profit purposes, without fee and without a signed licensing agreement, is hereby granted, provided that the above copyright notice, this paragraph and the following two paragraphs appear in all copies, modifications, and distributions. Contact The Office of Ramsingh Laboratory, 1975 Zonal Ave, Los Angeles, CA 90033 (800) 872-2273 for commercial licensing opportunities.
+
+Created by   Anthony Colombo, Dr. Timothy Triche Jr., Dr. Giri Ramsingh,  University of Southern California
+
+IN NO EVENT SHALL REGENTS BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF REGENTS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+REGENTS SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE AND ACCOMPANYING DOCUMENTATION, IF ANY, PROVIDED HEREUNDER IS PROVIDED "AS IS". REGENTS HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
+
+ References related to USC BedGraph Converter,
+
+The following software uses bedGraphToBigWig software located  http://genome.ucsc.edu/, developed by  BigWig and BigBed tools: Kent WJ, Zweig AS, Barber G, Hinrichs AS, Karolchik D. BigWig and BigBed: enabling browsing of large distributed data sets. Bioinformatics. 2010 Sep 1;26(17):2204-7.
+
+The following software is for academic, research, personal , or non-commercial use only.  USC BedGraph Converter is a wrapper function of bedGraphToBigWig function written by Dr. Kent et.al at UCSC hosted  http://genome.ucsc.edu/
+
+For interests in commerical use please contact kent@soe.ucsc.edu (831) 459-1401 , fax (831) 459-1809 at
+
+Center for Biomolecular Science & Engineering
+University of California
+MS: CBSE
+1156 High Street
+Santa Cruz, CA 95064
+
+Illumina and its affiliates are not responsible for the content of, use of, or performance of the Application.
+
+ The BaseSpace User must acknowledge and agree that Illumina and its affiliates are Third Party beneficiaries under the end user license agreement.
