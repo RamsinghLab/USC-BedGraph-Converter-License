@@ -33,8 +33,9 @@ Application is the responsible for all routines related to the application; Illu
 maintenance, performance, or results of this application.  
     The software is intended to process data within BaseSpace with granted access permissions only.  Data sharing within
 BaseSpace, data can be processed if access permissions are shared or granted.  Illumina, and USC BedGraph Converter is 
-not responsible for any data outside BaseSpace, and not responsible for any data shared or processed amongst users.  
-It is the users responsibility to protect access permissions, and data storage within or outside BaseSpace.  
+not responsible for any data outside BaseSpace, and not responsible for any data shared or processed amongst users. The 
+software is not intended to alter access permissions, share data, or change how the data is stored within or outside
+BaseSpace.  It is the users responsibility to protect access permissions, and data storage within or outside BaseSpace.  
      There is no warranty for USC BedGraph Converter, and is presented "as is", but can be subject to revisions at any time 
 in the future. It is important to note that the USC BedGraph Converter is an application intended for research use only,
 and not intended for diagnosis, treatment, and/or care for animals or humans in any way.  The USC BedGraph Converter may
