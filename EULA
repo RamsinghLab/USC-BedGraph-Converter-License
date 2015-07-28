@@ -32,7 +32,7 @@ of large distributed data sets. Bioinformatics. 2010 Sep 1;26(17):2204-7.
 Application is the responsible for all routines related to the application; Illumina is not  responsible for the 
 maintenance, performance, or results of this application.  
     The software is intended to process data within BaseSpace with granted access permissions only.  Data sharing within
-BaseSpace, data can be processed if access permissions are shared or granted.  Illumina, and USC BedGraph Converter is 
+BaseSpace can be processed if and only if access permissions are shared or granted.  Illumina, and USC BedGraph Converter is 
 not responsible for any data outside BaseSpace, and not responsible for any data shared or processed amongst users. The 
 software is not intended to alter access permissions, share data, or change how the data is stored within or outside
 BaseSpace.  It is the users responsibility to protect access permissions, and data storage within or outside BaseSpace.  
