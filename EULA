@@ -31,7 +31,11 @@ of large distributed data sets. Bioinformatics. 2010 Sep 1;26(17):2204-7.
     The user agrees licensing agreement is between this application and the user, and not Illumina, i.e.  the Native 
 Application is the responsible for all routines related to the application; Illumina is not  responsible for the 
 maintenance, performance, or results of this application.  
-    There is no warranty for USC BedGraph Converter, and is presented "as is", but can be subject to revisions at any time 
+    The software is intended to process data with granted access permissions only.  Within BaseSpace, data can only be 
+processed if access permissions are granted for data sharing.  Illumina, or USC BedGraph Converter is 
+not responsible for any data outside BaseSpace, and not responsible for any data shared or processed amongst users.  
+It is the users responsibility to protect access permissions, and data storage.  
+     There is no warranty for USC BedGraph Converter, and is presented "as is", but can be subject to revisions at any time 
 in the future. It is important to note that the USC BedGraph Converter is an application intended for research use only,
 and not intended for diagnosis, treatment, and/or care for animals or humans in any way.  The USC BedGraph Converter may
 be subject to export laws and regulations.  USC BedGraph Converter is intended for data stored within BaseSpace and for
