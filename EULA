@@ -47,16 +47,15 @@ only,and not intended for diagnosis, treatment, and/or care for animals or human
     
     USC BedGraph Converter is intended for data stored within BaseSpace and for the use of other BaseSpace Native Apps
 with granted shared permissions, Illumina and USC BedGraph Converter are not responsible for any permissions of any
-processed data within or outside BaseSpace.  If a user wishes to use USC BedGraph Converter for data located outside the
-intended BaseSpace storage system, Illumina and the software are not responsible.  USC BedGraph Converter agrees that 
+processed data within or outside BaseSpace.  USC BedGraph Converter agrees that 
 Illumina is a Third Party beneficiary under the License Agreement.  Lastly, the user must acknowledge
 and agree that Illumina are Third Party beneficiaries under the End User License Agreement; Illumina and its 
 affiliates are not responsible for the content of, use of, or performance of the Application.  
 By agreeing to the End User License Agreement, the user hereby agrees to all of the above statements.  
 
  
-     In your published work, please add the citations:
- Please include the citation:  Kent WJ, Zweig AS, Barber G, Hinrichs AS, Karolchik D. BigWig and BigBed: enabling 
+     In your published work, please add the citations:  
+                               Kent WJ, Zweig AS, Barber G, Hinrichs AS, Karolchik D. BigWig and BigBed: enabling 
                                browsing of large distributed data sets. Bioinformatics. 2010 Sep 1;26(17):2204-7.
                                
                                USC BedGraph Converter: Anthony Colombo, Dr. Timothy Triche Jr., Dr. Giridharan Ramsingh,
